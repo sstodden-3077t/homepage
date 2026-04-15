@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-08
 - Investigated performance bottleneck, noted findings
 - Resolved TODO items from previous session
+
+## 2026-04-15
+- Added inline documentation for core functions
+- Resolved TODO items from previous session
